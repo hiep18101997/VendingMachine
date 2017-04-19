@@ -1,0 +1,8 @@
+Cocacola_10000_50
+Water_5000_50
+MilkTea_8000_50
+Soda_12000_50
+Pepsi_14000_50
+Cake_8000_50
+Lemonade_10000_50
+OrangeJuice_13000_50
